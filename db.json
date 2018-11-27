@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "modules": [
     { "avatarUrl": "1", "username": "Post 1","role": "Listing" },
     { "avatarUrl": "2", "username": "Post 2","role": "Listing" },
     { "avatarUrl": "3", "username": "Post 3","role": "Listing" }
