@@ -1,8 +1,8 @@
 {
   "modules": [
-    { "avatarUrl": "1", "username": "Post 1","role": "Listing" },
-    { "avatarUrl": "2", "username": "Post 2","role": "Listing" },
-    { "avatarUrl": "3", "username": "Post 3","role": "Listing" }
+    { "id": "1", "title": "Post 1","type": "Listing" },
+    { "id": "2", "title": "Post 2","type": "Listing" },
+    { "id": "3", "title": "Post 3","type": "Listing" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
