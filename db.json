@@ -1,15 +1,15 @@
 {  
    "data":[  
       {  
-         "id":12,
+         "id":"12",
          "added":"2018-10-15T13:33:29-0400",
          "title":"Delicious nutritious Food",
          "text":"Must Try DhalPuri .",
-         "rating":5,
-         "like":0,
-         "dislike":0,
+         "rating":"5",
+         "like":"0",
+         "dislike":"0",
          "module":{  
-            "id":8724,
+            "id":"8724",
             "title":"Alima's Roti and Pastry",
             "type":"listing"
          }
